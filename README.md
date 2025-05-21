@@ -60,24 +60,6 @@ Trending is not just about views — it's about **timing, category, and audience
 
 
 
-## 📂 Folder Structure
-
-
-
-YouTube-Trending-Analysis/
-│
-├── data/
-│   ├── IN\_youtube\_trending\_data.csv
-│   └── US\_youtube\_trending\_data.csv
-│
-├── YouTube\_Trending\_Analysis.ipynb
-├── README.md
-└── images/
-    ├── days\_to\_trend.png
-    └── category\_vs\_days.png
-
-
-
 ## ✨ Author
 
 **Aditya VK**  
