@@ -64,5 +64,5 @@ Trending is not just about views — it's about **timing, category, and audience
 
 **Aditya VK**  
 📍 Mumbai, India  
-🔗 [Portfolio Website](https://your-portfolio-link)  
+🔗 [Portfolio Website](https://portfolio-gmkboc9wo-aditya-vishwakarmas-projects-ae18906c.vercel.app/)  
 💼 [LinkedIn](https://linkedin.com/in/aditya-vk-professional)
