@@ -2,14 +2,14 @@
 
 A data-driven exploration of trending video behavior across India 🇮🇳 and the USA 🇺🇸, uncovering what makes videos trend, how fast they trend, and what factors influence visibility on YouTube.
 
----
+
 
 ## 📁 Dataset
 - Source: [Kaggle - YouTube Trending Video Dataset](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset)
 - Countries Analyzed: **India**, **USA**
 - Format: CSV files (one per country)
 
----
+
 
 ## 📌 Objectives
 
@@ -18,7 +18,6 @@ A data-driven exploration of trending video behavior across India 🇮🇳 and t
 - Discover factors influencing virality on YouTube
 - Visualize insights with Python libraries like **Pandas**, **Matplotlib**, and **Seaborn**
 
----
 
 ## 🧪 Tools & Technologies
 
@@ -28,7 +27,7 @@ A data-driven exploration of trending video behavior across India 🇮🇳 and t
 - Matplotlib & Seaborn
 - Data Cleaning & Preprocessing
 
----
+
 
 ## 📊 Key Insights
 
@@ -46,24 +45,24 @@ A data-driven exploration of trending video behavior across India 🇮🇳 and t
 - **Virality Factors**:  
   - High engagement (likes/comments) matters more than just views.
 
----
+
 
 ## 📌 Conclusion
 
 Trending is not just about views — it's about **timing, category, and audience engagement**. This project reveals cross-country differences and helps creators & analysts understand what drives visibility on YouTube.
 
----
+
 
 ## 🖼️ Sample Visualizations
 
 ![Number of Trending video over time](images/Number_of_Trending_video_over_time.png)
 ![US & India Top 10 Video Categories](images/video_category.png)
 
----
+
 
 ## 📂 Folder Structure
 
-```
+
 
 YouTube-Trending-Analysis/
 │
@@ -77,9 +76,7 @@ YouTube-Trending-Analysis/
     ├── days\_to\_trend.png
     └── category\_vs\_days.png
 
-```
 
----
 
 ## ✨ Author
 
